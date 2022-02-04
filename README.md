@@ -1,4 +1,5 @@
-Processed single cell RNA sequencing datasets used to evaluate the performance of the ccImpute algorithm. 
+## About
+This repository contains processed single cell RNA sequencing datasets used to evaluate the performance of the ccImpute algorithm. 
 
 ## Summary of Datasets & Usage
 Any of scRNA-seq datasets listed in the table below can be read-in into R as follows:
